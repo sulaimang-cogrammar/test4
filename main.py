@@ -16,6 +16,7 @@ def main():
     print(f"{a} - {b} = {a-b}")
 
     # Demonstrate multiplication:
+    print(f"{a} * {b} = {a*b}")
 
     # Demonstrate division:
 
